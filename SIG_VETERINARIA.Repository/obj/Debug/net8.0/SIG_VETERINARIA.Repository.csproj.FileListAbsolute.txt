@@ -1,0 +1,17 @@
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Repository.deps.json
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Repository.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Repository.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Abstrations.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Dtos.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Abstrations.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\bin\Debug\net8.0\SIG_VETERINARIA.Dtos.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.AssemblyInfo.cs
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETE.3DB17E07.Up2Date
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\refint\SIG_VETERINARIA.Repository.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\SIG_VETERINARIA.Repository.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Repository\obj\Debug\net8.0\ref\SIG_VETERINARIA.Repository.dll

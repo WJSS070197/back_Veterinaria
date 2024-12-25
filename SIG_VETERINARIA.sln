@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Repository", "SIG_VETERINARIA.Repository\SIG_VETERINARIA.Repository.csproj", "{79D76D25-D6F0-4932-BA91-050B109D8A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Abstrations", "SIG_VETERINARIA.Abstrations\SIG_VETERINARIA.Abstrations.csproj", "{B512FAE9-A277-4C12-9688-FC056E3EDBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Services", "SIG_VETERINARIA.Services\SIG_VETERINARIA.Services.csproj", "{19882BF8-5016-449C-979B-9A5CA1ED23AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Applications", "SIG_VETERINARIA.Applications\SIG_VETERINARIA.Applications.csproj", "{F3115093-7A20-4087-9C10-B04389C851B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Dtos", "SIG_VETERINARIA.Dtos\SIG_VETERINARIA.Dtos.csproj", "{3A03B60A-E15C-4833-8C0C-626AA8C80E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIG_VETERINARIA.Api", "SIG_VETERINARIA.Api\SIG_VETERINARIA.Api.csproj", "{8304ED6A-87B1-41A3-9036-A56340F4DA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D76D25-D6F0-4932-BA91-050B109D8A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D76D25-D6F0-4932-BA91-050B109D8A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D76D25-D6F0-4932-BA91-050B109D8A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D76D25-D6F0-4932-BA91-050B109D8A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B512FAE9-A277-4C12-9688-FC056E3EDBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B512FAE9-A277-4C12-9688-FC056E3EDBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B512FAE9-A277-4C12-9688-FC056E3EDBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B512FAE9-A277-4C12-9688-FC056E3EDBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19882BF8-5016-449C-979B-9A5CA1ED23AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19882BF8-5016-449C-979B-9A5CA1ED23AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19882BF8-5016-449C-979B-9A5CA1ED23AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19882BF8-5016-449C-979B-9A5CA1ED23AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3115093-7A20-4087-9C10-B04389C851B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3115093-7A20-4087-9C10-B04389C851B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3115093-7A20-4087-9C10-B04389C851B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3115093-7A20-4087-9C10-B04389C851B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A03B60A-E15C-4833-8C0C-626AA8C80E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A03B60A-E15C-4833-8C0C-626AA8C80E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A03B60A-E15C-4833-8C0C-626AA8C80E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A03B60A-E15C-4833-8C0C-626AA8C80E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8304ED6A-87B1-41A3-9036-A56340F4DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8304ED6A-87B1-41A3-9036-A56340F4DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8304ED6A-87B1-41A3-9036-A56340F4DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8304ED6A-87B1-41A3-9036-A56340F4DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

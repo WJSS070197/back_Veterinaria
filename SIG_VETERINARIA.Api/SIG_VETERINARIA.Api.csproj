@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIG_VETERINARIA.Abstrations\SIG_VETERINARIA.Abstrations.csproj" />
+    <ProjectReference Include="..\SIG_VETERINARIA.Applications\SIG_VETERINARIA.Applications.csproj" />
+    <ProjectReference Include="..\SIG_VETERINARIA.Dtos\SIG_VETERINARIA.Dtos.csproj" />
+    <ProjectReference Include="..\SIG_VETERINARIA.Repository\SIG_VETERINARIA.Repository.csproj" />
+    <ProjectReference Include="..\SIG_VETERINARIA.Services\SIG_VETERINARIA.Services.csproj" />
+  </ItemGroup>
+
+</Project>

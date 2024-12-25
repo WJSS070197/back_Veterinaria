@@ -1,0 +1,6 @@
+@SIG_VETERINARIA.Api_HostAddress = http://localhost:5090
+
+GET {{SIG_VETERINARIA.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

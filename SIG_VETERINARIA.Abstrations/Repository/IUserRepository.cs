@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using SIG_VETERINARIA.Dtos.Auth;
+using SIG_VETERINARIA.Dtos.Common;
+using SIG_VETERINARIA.Dtos.User;
+
+namespace SIG_VETERINARIA.Abstrations.Repository
+{
+    public interface IUserRepository
+    {   
+        public Task<ResultDto<UserListResposeDto>> GetAll();
+        public Task<ResultDto<int>> Create(UserCreateRequestDto request);
+        public Task<ResultDto<int>> Delete(DeleteDto request);
+
+        public Task<TokenResponseDto> GenerateToken(UserDetailResponseDto request);
+        public Task<UserDetailResponseDto> GetUserByUsername(string username);
+
+        public Task<UserDetailResponseDto> ValidateUser(LoginRequestDto request);
+        public  Task<AuthResponseDto> Login(LoginRequestDto request);
+
+
+    }
+}

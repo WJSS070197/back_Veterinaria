@@ -1,0 +1,15 @@
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\bin\Debug\net8.0\SIG_VETERINARIA.Abstrations.deps.json
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\bin\Debug\net8.0\SIG_VETERINARIA.Abstrations.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\bin\Debug\net8.0\SIG_VETERINARIA.Abstrations.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\bin\Debug\net8.0\SIG_VETERINARIA.Dtos.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\bin\Debug\net8.0\SIG_VETERINARIA.Dtos.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.AssemblyInfo.cs
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETE.0ECE07BA.Up2Date
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\refint\SIG_VETERINARIA.Abstrations.dll
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\SIG_VETERINARIA.Abstrations.pdb
+C:\Users\HOME\source\repos\SIG_VETERINARIA\SIG_VETERINARIA.Abstrations\obj\Debug\net8.0\ref\SIG_VETERINARIA.Abstrations.dll

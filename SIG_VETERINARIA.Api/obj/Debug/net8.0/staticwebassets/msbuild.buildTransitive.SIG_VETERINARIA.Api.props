@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SIG_VETERINARIA.Api.props" />
+</Project>

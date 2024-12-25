@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SIG_VETERINARIA.Abstrations/1.0.0": {
+        "dependencies": {
+          "SIG_VETERINARIA.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "SIG_VETERINARIA.Abstrations.dll": {}
+        }
+      },
+      "SIG_VETERINARIA.Dtos/1.0.0": {
+        "runtime": {
+          "SIG_VETERINARIA.Dtos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIG_VETERINARIA.Abstrations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SIG_VETERINARIA.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

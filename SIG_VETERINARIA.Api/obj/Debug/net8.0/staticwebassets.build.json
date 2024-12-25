@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X10S0vw5oKvx85B2CibSxdyZx3nyJUnwz69KqZeOKyY=",
+  "Source": "SIG_VETERINARIA.Api",
+  "BasePath": "_content/SIG_VETERINARIA.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
